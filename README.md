@@ -8,9 +8,9 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=i+am+full+stack+developer" alt="Typing SVG" /></a>
 
 https://www.linkedin.com/in/abhishekjha96
-br
 
-https://abhishekjha1996.github.io/
+
+https://abhishekjha1996.github.io
 
 location : Kolkata, West Bengal
 
