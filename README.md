@@ -2,8 +2,9 @@
 
 ![Blue Modern Seo Marketer Profile Linkedin Banner](https://user-images.githubusercontent.com/110034812/216015140-c46d8c1c-d819-467a-ae7f-6c80c2b33a09.png)
 
+<div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I+am+Abhishek+Jha;MERN%3A+Full+Stack+Web+Developer" alt="Typing SVG" /></a>
-
+</div>
 
 
 - 👨‍💻 All of my projects are available at <a href="https://abhishekjha1996.github.io/" target="_blank">Portfolio</a>
