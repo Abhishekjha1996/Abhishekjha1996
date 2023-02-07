@@ -57,17 +57,17 @@
 <hr>
 <div align="center">
   <a href="https://github.com/abhishekjha1996/github-readme-stats">
-    <img
+<!--     <img
       alt="abhishekjha1996 Top Languages"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekjha1996&langs_count=8&count_private=true&layout=compact&theme=react&title_color=FFFFFF&hide_border=true&bg_color=0071E3"
-    />
+    /> -->
   </a>
 </div>
 <br />
 <hr>
 <!-- https://streak-stats.demolab.com/demo/  -->
 <div align="center">
-  <a href="https://github.com/abhishekjha1996/github-readme-streak-stats">
+<!--   <a href="https://github.com/abhishekjha1996/github-readme-streak-stats"> -->
     <img
       title="🔥 Get streak stats for your profile at git.io/streak-stats"
       alt="abhishekjha1996 streak"
@@ -77,14 +77,7 @@
 </div>
 <br />
 <hr>
-<div align="center">
-  <a href="https://github.com/abhishekjha1996/github-readme-stats">
-    <img
-      alt="abhishekjha1996 Github Stats"
-      src="https://github-readme-stats.vercel.app/api?username=abhishekjha1996&show_icons=true&locale=en&theme=react&hide_border=true&title_color=FFFFFF&bg_color=0071E3"
-    />
-  </a>
-</div>
+
 <br>
 <hr>
 <div align="center">
