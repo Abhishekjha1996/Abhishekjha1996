@@ -56,7 +56,6 @@
 <br>
 <hr>
 <div align="center">
-   <a href="https://github.com/abhishekjha1996/github-readme-streak-stats"> 
     <img
       title="🔥 Get streak stats for your profile at git.io/streak-stats"
       alt="abhishekjha1996 streak"
