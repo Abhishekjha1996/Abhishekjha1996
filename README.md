@@ -7,7 +7,7 @@
 </div>
 
 
-- 👨‍💻 All of my projects are available at <a href="https://abhishekjha1996.github.io" target="_blank">Portfolio</a>
+- 👨‍💻 All of my projects are available at <a href="https://abhishekjha1996.github.io/" target="_blank">Portfolio</a>
 
 - 💬 Ask me about **HTML || JavaScript || CSS || React || Node.js || Express.js**
 
