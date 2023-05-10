@@ -13,7 +13,7 @@
 
 - 📫 How to reach me <a href="https://www.linkedin.com/in/abhishekjha96/" target="_blank">Linkedin</a>
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1mCLGbT9vGo2kpiXunE2zQHa-eVM4Gpa8/view?usp=sharing" target="_blank">Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1Ng1ZOWN6FPvIX7ful22cxn_s69xlmMpI/view?usp=sharing" target="_blank">Resume</a>
 
 
 
